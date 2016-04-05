@@ -1,0 +1,23 @@
+{
+    "name" : "php/gacx",
+    "description" : "Server-Side Google Analytics Content Experiments PHP Client",
+    "version": "1.0.1",
+    "homepage" : "https://github.com/gegere/php-gacx",
+    "license" : "MIT",
+    "keywords": ["Google", "experiments", "tracking", "cookie", "server-side"],
+    "authors" : [
+        {
+            "name" : "Jason Gegere",
+            "email" : "jason@htmlgraphic.com",
+            "homepage" : "http://htmlgraphic.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+        },
+    "autoload": {
+        "psr-0": {
+            "php-gacx": "src/"
+            }
+        }
+}
