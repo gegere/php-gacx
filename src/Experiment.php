@@ -25,7 +25,7 @@
  * @author    Thomas Bachem <mail@thomasbachem.com>
  */
 
-namespace UnitedPrototype\GoogleAnalytics;
+namespace GoogleExperiments\Experiment;
 
 use Exception;
 use UnexpectedValueException;
